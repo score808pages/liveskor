@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://liveskor.score808.my.id/sitemap.xml
